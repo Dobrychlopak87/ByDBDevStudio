@@ -1,20 +1,19 @@
 # ByDBDevStudio
 
-Publiczny katalog z osobnymi podglądami aplikacji DBDevStudio.
+Publiczny katalog z osobnymi podglądami aplikacji DBDevStudio. Kliknięcie grafiki lub przycisku podglądu uruchamia właściwą aplikację w nowej karcie.
 
-## Uruchom aplikację
+## Aplikacje z grafikami
 
-- [OCRoute — podgląd](https://raw.githack.com/Dobrychlopak87/OCRoute/main/index.html)
+- [SupManager — Multimedia Management](https://raw.githack.com/Dobrychlopak87/supmanager/main/index.html) — [repozytorium](https://github.com/Dobrychlopak87/supmanager)
+- [BlinkMeToo — Flashlight Communication](https://raw.githack.com/Dobrychlopak87/BlinkMeToo/main/index.html) — [repozytorium](https://github.com/Dobrychlopak87/BlinkMeToo)
+- [nano4HR — GDPR compliant](https://raw.githack.com/Dobrychlopak87/nano4HR/main/index.html) — [repozytorium](https://github.com/Dobrychlopak87/nano4HR)
+- [OCRoute](https://raw.githack.com/Dobrychlopak87/OCRoute/main/index.html) — [repozytorium](https://github.com/Dobrychlopak87/OCRoute)
+
+## Pozostałe aplikacje
+
 - [SkanerOCR — podgląd](https://raw.githack.com/Dobrychlopak87/SkanerOCR/main/index.html)
-- [BlinkMeToo — podgląd](https://raw.githack.com/Dobrychlopak87/BlinkMeToo/main/index.html)
-- [nano4HR — podgląd](https://raw.githack.com/Dobrychlopak87/nano4HR/main/index.html)
 - [QR-gen — podgląd](https://raw.githack.com/Dobrychlopak87/QR-gen/main/index.html)
-- [Hyper Multimedia Manager — podgląd](https://raw.githack.com/Dobrychlopak87/supmanager/main/index.html)
+- Hyper Multimedia Manager jest także linkowany jako SupManager powyżej.
+- KurierAI pozostaje prywatne, więc publiczny podgląd nie jest dostępny.
 
-Wszystkie powyższe aplikacje otwierają się niezależnie. Repozytoria źródłowe są odrębne od tego katalogu.
-
-## Ograniczenia
-
-`KurierAI` nadal ma prywatne repozytorium, więc jego kod i publiczny podgląd nie są dostępne. W rozmowie potwierdzono chęć publikacji, ale widoczność repozytorium nie została zmieniona.
-
-Dodatkowe pliki wklejone w rozmowie — `monolithic-large-file-editor.html`, `code_cleaner.html`, `😈DBDevil_CONVERTing.html` i `ZIPtoTXT-JSON.html` — nie zostały jeszcze opublikowane w tym repozytorium, więc nie mają działających linków podglądu.
+Grafiki przypisano w kolejności wskazanej przez użytkownika: 1 — SupManager, 2 — BlinkMeToo, 3 — nano4HR, 4 — OCRoute. W repozytorium znajdują się wektorowe banery odtworzone na podstawie tekstów/etykiet grafik, klikane i prowadzące do właściwych podglądów.
