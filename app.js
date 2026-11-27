@@ -11,7 +11,7 @@ const applications = [
     availability: "available",
     availabilityLabel: "Podgląd dostępny",
     color: "amber",
-    preview: "https://raw.githack.com/Dobrychlopak87/supmanager/main/index.html",
+    preview: "https://rawcdn.githack.com/Dobrychlopak87/supmanager/main/index.html",
     repo: "https://github.com/Dobrychlopak87/supmanager"
   },
   {
@@ -26,7 +26,7 @@ const applications = [
     availability: "available",
     availabilityLabel: "Podgląd dostępny",
     color: "mint",
-    preview: "https://raw.githack.com/Dobrychlopak87/BlinkMeToo/main/index.html",
+    preview: "https://rawcdn.githack.com/Dobrychlopak87/BlinkMeToo/main/index.html",
     repo: "https://github.com/Dobrychlopak87/BlinkMeToo"
   },
   {
@@ -58,7 +58,7 @@ const applications = [
     availability: "available",
     availabilityLabel: "Podgląd dostępny",
     color: "violet",
-    preview: "https://raw.githack.com/Dobrychlopak87/OCRoute/main/index.html",
+    preview: "https://rawcdn.githack.com/Dobrychlopak87/OCRoute/main/index.html",
     repo: "https://github.com/Dobrychlopak87/OCRoute"
   },
   {
@@ -88,7 +88,7 @@ const applications = [
     availability: "available",
     availabilityLabel: "Podgląd dostępny",
     color: "teal",
-    preview: "https://raw.githack.com/Dobrychlopak87/SkanerOCR/main/index.html",
+    preview: "https://rawcdn.githack.com/Dobrychlopak87/SkanerOCR/main/index.html",
     repo: "https://github.com/Dobrychlopak87/SkanerOCR"
   },
   {
@@ -103,7 +103,7 @@ const applications = [
     availability: "available",
     availabilityLabel: "Podgląd dostępny",
     color: "black",
-    preview: "https://raw.githack.com/Dobrychlopak87/QR-gen/main/index.html",
+    preview: "https://rawcdn.githack.com/Dobrychlopak87/QR-gen/main/index.html",
     repo: "https://github.com/Dobrychlopak87/QR-gen"
   },
   {
@@ -133,7 +133,7 @@ const applications = [
     availability: "available",
     availabilityLabel: "Podgląd dostępny",
     color: "blue",
-    preview: "https://raw.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/text-editor/index.html",
+    preview: "https://rawcdn.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/text-editor/index.html",
     repo: "https://github.com/Dobrychlopak87/ByDBDevStudio/tree/main/apps/text-editor"
   },
   {
@@ -148,7 +148,7 @@ const applications = [
     availability: "available",
     availabilityLabel: "Podgląd dostępny",
     color: "amber",
-    preview: "https://raw.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/dbdevil-convert/index.html",
+    preview: "https://rawcdn.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/dbdevil-convert/index.html",
     repo: "https://github.com/Dobrychlopak87/ByDBDevStudio/tree/main/apps/dbdevil-convert"
   },
   {
@@ -163,7 +163,7 @@ const applications = [
     availability: "available",
     availabilityLabel: "Podgląd dostępny",
     color: "mint",
-    preview: "https://raw.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/image-base64/index.html",
+    preview: "https://rawcdn.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/image-base64/index.html",
     repo: "https://github.com/Dobrychlopak87/ByDBDevStudio/tree/main/apps/image-base64"
   },
   {
@@ -178,7 +178,7 @@ const applications = [
     availability: "available",
     availabilityLabel: "Podgląd dostępny",
     color: "violet",
-    preview: "https://raw.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/zip-to-text/index.html",
+    preview: "https://rawcdn.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/zip-to-text/index.html",
     repo: "https://github.com/Dobrychlopak87/ByDBDevStudio/tree/main/apps/zip-to-text"
   }
 ];
