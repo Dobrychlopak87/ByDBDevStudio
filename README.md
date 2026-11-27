@@ -13,7 +13,7 @@ wystarczy przeglądarka i link do podglądu produkcyjnego.
 ![Dane](https://img.shields.io/badge/dane-przetwarzane_lokalnie-0969da?style=flat-square)
 ![Technologia](https://img.shields.io/badge/technologia-HTML_%C2%B7_CSS_%C2%B7_JS-f0883e?style=flat-square)
 
-[![Katalog aplikacji — uruchom podgląd](https://img.shields.io/badge/Katalog_aplikacji-uruchom_podgl%C4%85d-1f6feb?style=for-the-badge)](https://raw.githack.com/Dobrychlopak87/ByDBDevStudio/main/index.html)
+[![Katalog aplikacji — uruchom podgląd](https://img.shields.io/badge/Katalog_aplikacji-uruchom_podgl%C4%85d-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/ByDBDevStudio/main/index.html)
 
 </div>
 
@@ -42,7 +42,7 @@ Przeglądarka i menedżer plików multimedialnych. Aplikacja działa w 100% offl
 multimedia pozostają na urządzeniu i nie są nigdzie wysyłane.
 
 <p align="center">
-&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://raw.githack.com/Dobrychlopak87/supmanager/main/index.html)&nbsp;
+&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/supmanager/main/index.html)&nbsp;
 [![Kod źródłowy](https://img.shields.io/badge/Kod_%C5%BAr%C3%B3d%C5%82owy-24292f?style=for-the-badge)](https://github.com/Dobrychlopak87/supmanager)
 </p>
 
@@ -54,7 +54,7 @@ Aplikacja do komunikacji światłem latarki telefonu — przesyłanie prostych k
 za pomocą sekwencji błysków. Działa w 100% offline.
 
 <p align="center">
-&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://raw.githack.com/Dobrychlopak87/BlinkMeToo/main/index.html)&nbsp;
+&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/BlinkMeToo/main/index.html)&nbsp;
 [![Kod źródłowy](https://img.shields.io/badge/Kod_%C5%BAr%C3%B3d%C5%82owy-24292f?style=for-the-badge)](https://github.com/Dobrychlopak87/BlinkMeToo)
 </p>
 
@@ -66,7 +66,7 @@ Ewidencja czasu pracy i zarządzanie HR. Zgodna z RODO (GDPR compliant), działa
 w 100% offline — dane pracowników nie opuszczają urządzenia.
 
 <p align="center">
-&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://raw.githack.com/Dobrychlopak87/nano4HR/main/index.html)&nbsp;
+&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/nano4HR/main/index.html)&nbsp;
 [![Kod źródłowy](https://img.shields.io/badge/Kod_%C5%BAr%C3%B3d%C5%82owy-24292f?style=for-the-badge)](https://github.com/Dobrychlopak87/nano4HR)
 </p>
 
@@ -79,7 +79,7 @@ with you — upgrade your parcels"* (zatrudnij swój smartfon do pracy i ulepsz 
 przesyłek). Działa w 100% offline.
 
 <p align="center">
-&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://raw.githack.com/Dobrychlopak87/OCRoute/main/index.html)&nbsp;
+&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/OCRoute/main/index.html)&nbsp;
 [![Kod źródłowy](https://img.shields.io/badge/Kod_%C5%BAr%C3%B3d%C5%82owy-24292f?style=for-the-badge)](https://github.com/Dobrychlopak87/OCRoute)
 </p>
 
@@ -98,7 +98,7 @@ Lokalny portal społecznościowy dostępny pod własnym adresem internetowym.
 Podgląd aplikacji do rozpoznawania tekstu (OCR).
 
 <p align="center">
-&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://raw.githack.com/Dobrychlopak87/SkanerOCR/main/index.html)&nbsp;
+&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/SkanerOCR/main/index.html)&nbsp;
 [![Kod źródłowy](https://img.shields.io/badge/Kod_%C5%BAr%C3%B3d%C5%82owy-24292f?style=for-the-badge)](https://github.com/Dobrychlopak87/SkanerOCR)
 </p>
 
@@ -107,7 +107,7 @@ Podgląd aplikacji do rozpoznawania tekstu (OCR).
 Generator kodów QR.
 
 <p align="center">
-&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://raw.githack.com/Dobrychlopak87/QR-gen/main/index.html)&nbsp;
+&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/QR-gen/main/index.html)&nbsp;
 [![Kod źródłowy](https://img.shields.io/badge/Kod_%C5%BAr%C3%B3d%C5%82owy-24292f?style=for-the-badge)](https://github.com/Dobrychlopak87/QR-gen)
 </p>
 
@@ -120,7 +120,7 @@ Lekka, samodzielna aplikacja, która działa w całości w przeglądarce — bez
 zewnętrznych bibliotek i połączenia z siecią.
 
 <p align="center">
-&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://raw.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/text-editor/index.html)&nbsp;
+&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/ByDBDevStudio/main/apps/text-editor/index.html)&nbsp;
 [![Kod źródłowy](https://img.shields.io/badge/Kod_%C5%BAr%C3%B3d%C5%82owy-24292f?style=for-the-badge)](https://github.com/Dobrychlopak87/ByDBDevStudio/tree/main/apps/text-editor)
 </p>
 
@@ -142,7 +142,7 @@ Zestaw dziesięciu narzędzi deweloperskich w jednej aplikacji:
 Operacje wykonywane są lokalnie; funkcje ZIP i QR korzystają z bibliotek CDN.
 
 <p align="center">
-&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://raw.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/dbdevil-convert/index.html)&nbsp;
+&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/ByDBDevStudio/main/apps/dbdevil-convert/index.html)&nbsp;
 [![Kod źródłowy](https://img.shields.io/badge/Kod_%C5%BAr%C3%B3d%C5%82owy-24292f?style=for-the-badge)](https://github.com/Dobrychlopak87/ByDBDevStudio/tree/main/apps/dbdevil-convert)
 </p>
 
@@ -153,7 +153,7 @@ w przeglądarce. Przydatna przy osadzaniu grafik w plikach HTML i arkuszach styl
 bez dodatkowych zapytań sieciowych.
 
 <p align="center">
-&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://raw.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/image-base64/index.html)&nbsp;
+&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/ByDBDevStudio/main/apps/image-base64/index.html)&nbsp;
 [![Kod źródłowy](https://img.shields.io/badge/Kod_%C5%BAr%C3%B3d%C5%82owy-24292f?style=for-the-badge)](https://github.com/Dobrychlopak87/ByDBDevStudio/tree/main/apps/image-base64)
 </p>
 
@@ -163,7 +163,7 @@ Rozpakowywanie archiwów ZIP w przeglądarce i eksport plików do formatów TXT,
 lub HTML. Funkcja rozpakowywania wymaga biblioteki JSZip ładowanej z CDN.
 
 <p align="center">
-&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://raw.githack.com/Dobrychlopak87/ByDBDevStudio/main/apps/zip-to-text/index.html)&nbsp;
+&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/ByDBDevStudio/main/apps/zip-to-text/index.html)&nbsp;
 [![Kod źródłowy](https://img.shields.io/badge/Kod_%C5%BAr%C3%B3d%C5%82owy-24292f?style=for-the-badge)](https://github.com/Dobrychlopak87/ByDBDevStudio/tree/main/apps/zip-to-text)
 </p>
 
@@ -181,18 +181,18 @@ zapewnieniu publicznego hostingu aplikacji.
 
 ---
 
-## Podglądy produkcyjne — jak to działa
+## Podglądy produkcyjne — jak to działają
 
-- Wszystkie podglądy uruchamiają aplikacje bezpośrednio z kodu źródłowego
-  hostowanego na GitHub. Pliki serwowane są przez usługę **raw.githack**, która
-  dostarcza je z poprawnymi nagłówkami MIME dla HTML/CSS/JS.
-- Przy pierwszym otwarciu raw.githack może wyświetlić krótką stronę ostrzegawczą —
-  wystarczy wtedy kliknąć **„Open the page"**, aby przejść do aplikacji.
-- Katalog wszystkich aplikacji (`index.html`) również ma własny podgląd:
-  [Uruchom katalog aplikacji](https://raw.githack.com/Dobrychlopak87/ByDBDevStudio/main/index.html).
+- Wszystkie podglądy otwierają aplikacje **bezpośrednio — bez strony pośredniej
+  i bez ostrzeżeń**. Pliki pobierane są z `raw.githubusercontent.com`, a ich pełne
+  renderowanie w przeglądarce zapewnia usługa **htmlpreview.github.io**.
+- Każda aplikacja ma własny, oddzielny adres podglądu — linki znajdują się
+  w katalogu powyżej oraz w hubie (`index.html`):
+  [Uruchom katalog aplikacji](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/ByDBDevStudio/main/index.html).
 - Wskazówka: po włączeniu GitHub Pages (Settings → Pages → gałąź `main`) aplikacje
-  z katalogu `apps/` będą dodatkowo dostępne pod stałymi adresami
-  `https://dobrychlopak87.github.io/ByDBDevStudio/apps/...`, bez strony pośredniej.
+  będą dodatkowo dostępne pod stałymi adresami
+  `https://dobrychlopak87.github.io/ByDBDevStudio/...` — w pełni natywnie,
+  bez usług pośredniczących.
 
 ## Prywatność i bezpieczeństwo
 
