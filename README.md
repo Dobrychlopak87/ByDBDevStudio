@@ -62,11 +62,67 @@ za pomocą sekwencji błysków. Działa w 100% offline.
 
 <p align="center"><img src="assets/nano4hr.svg" alt="nano4HR — GDPR compliant" width="600"/></p>
 
-Ewidencja czasu pracy i zarządzanie HR. Zgodna z RODO (GDPR compliant), działająca
-w 100% offline — dane pracowników nie opuszczają urządzenia.
+**nano4HR — Your safety is our priority.** Ewidencja czasu pracy i zarządzanie HR.
+Zgodna z RODO (GDPR compliant), działająca w 100% offline — dane pracowników
+nie opuszczają urządzenia.
+
+<details>
+<summary><strong>📱 Pełny opis i niezwykła historia powstania (Mobile-First)</strong> — kliknij, aby rozwinąć</summary>
+
+<br>
+
+**nano4HR** to zaawansowana aplikacja typu Single Page Application (SPA) mieszcząca
+się w jednym, autonomicznym pliku HTML (monolicie), stworzona z myślą o wsparciu
+procesów BHP, ewidencji czasu pracy oraz zarządzania profilami pracowników HR.
+*(EN: an advanced SPA contained entirely within a single, autonomous, monolithic HTML
+file, designed to streamline OSH processes, work time registration, and HR employee
+profiles.)*
+
+> **📱 Niezwykła historia powstania.** Ta aplikacja powstała w 100% na ekranie telefonu
+> komórkowego. Została zbudowana bez użycia tradycyjnego komputera, środowisk IDE czy
+> płatnych narzędzi, korzystając wyłącznie z darmowych limitów różnych modeli
+> sztucznej inteligencji (LLM). Projekt udowadnia, że przy odpowiedniej determinacji,
+> logice i precyzyjnym kierowaniu modelami AI (Prompt Engineering) można stworzyć
+> produkcyjne oprogramowanie od zera w każdych warunkach.
+
+**Główne funkcje**
+
+- **Ewidencja czasu pracy i BHP** — pełny moduł rejestrowania i podsumowywania czasu
+  pracy, dopasowany do standardów bezpieczeństwa.
+- **Walidacja danych biznesowych** — automatyczna walidacja specyficznych
+  identyfikatorów takich jak PESEL (z wyliczaniem daty urodzenia) oraz numerów kont
+  bankowych (IBAN).
+- **Generowanie eksportów (Offline-First)** — ZIP: pakowanie i kompresowanie danych
+  w locie bezpośrednio w przeglądarce za pomocą niestandardowego kodu kompresji;
+  Excel / CSV / PDF: lokalny eksport tabelaryczny i dokumentowy gotowy do druku.
+- **Kopia zapasowa (Backup)** — opcja pobrania pełnego profilu i konfiguracji
+  w postaci pliku JSON w celu łatwego przywrócenia stanu.
+
+**Bezpieczeństwo i architektura**
+
+- **Content Security Policy (CSP)** — bardzo restrykcyjna polityka bezpieczeństwa
+  oparta o sumy kontrolne SHA-256 dla skryptów i stylów. Zabezpiecza aplikację przed
+  atakami typu Cross-Site Scripting (XSS).
+- **Kryptografia lokalna** — wbudowane wsparcie dla podpisów cyfrowych (ECDSA/RSA),
+  eksportu kluczy publicznych urządzeń oraz potencjał dla uwierzytelniania
+  sprzętowego WebAuthn (FIDO2).
+- **Strict Mode** — kod JavaScript działa w rygorystycznym trybie `'use strict'`,
+  eliminując ciche błędy i optymalizując czas wykonania.
+- **Zero External Dependencies (Zero-npm)** — cały kod CSS, JS oraz silniki
+  narzędziowe zostały zintegrowane wewnątrz jednego pliku HTML (~514 KB), co pozwala
+  na pełne uruchomienie aplikacji offline.
+
+**Jak uruchomić (100% klient — przeglądarka)**
+
+1. Pobierz plik `index.html` z tego repozytorium.
+2. Kliknij dwukrotnie plik `index.html`, aby otworzyć go w dowolnej nowoczesnej
+   przeglądarce internetowej.
+3. Nie jest wymagany żaden serwer ani instalacja.
+
+</details>
 
 <p align="center">
-&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/nano4HR/main/index.html)&nbsp;
+&nbsp;[![Podgląd produkcyjny](https://img.shields.io/badge/Podgl%C4%85d_produkcyjny-1f6feb?style=for-the-badge)](https://dobrychlopak87.github.io/nano4HR/)&nbsp;
 [![Kod źródłowy](https://img.shields.io/badge/Kod_%C5%BAr%C3%B3d%C5%82owy-24292f?style=for-the-badge)](https://github.com/Dobrychlopak87/nano4HR)
 </p>
 
@@ -183,16 +239,22 @@ zapewnieniu publicznego hostingu aplikacji.
 
 ## Podglądy produkcyjne — jak to działają
 
-- Wszystkie podglądy otwierają aplikacje **bezpośrednio — bez strony pośredniej
-  i bez ostrzeżeń**. Pliki pobierane są z `raw.githubusercontent.com`, a ich pełne
-  renderowanie w przeglądarce zapewnia usługa **htmlpreview.github.io**.
+- **nano4HR** ma już włączone natywne **GitHub Pages** i otwiera się bezpośrednio pod
+  własnym adresem [dobrychlopak87.github.io/nano4HR](https://dobrychlopak87.github.io/nano4HR/).
+  Plik serwowany jest bez zmian, więc restrykcyjna polityka CSP (sumy SHA-256) działa
+  w nienaruszonej formie.
+- Pozostałe podglądy korzystają z usługi **htmlpreview.github.io**, która pobiera plik
+  z `raw.githubusercontent.com` i renderuje go w przeglądarce — bez strony pośredniej
+  i bez ostrzeżeń. Uwaga: htmlpreview modyfikuje strukturę dokumentu, dlatego nie
+  nadaje się dla aplikacji z restrykcyjnym CSP — dokładnie dlatego nano4HR ma
+  własny, natywny hosting.
 - Każda aplikacja ma własny, oddzielny adres podglądu — linki znajdują się
   w katalogu powyżej oraz w hubie (`index.html`):
   [Uruchom katalog aplikacji](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dobrychlopak87/ByDBDevStudio/main/index.html).
-- Wskazówka: po włączeniu GitHub Pages (Settings → Pages → gałąź `main`) aplikacje
-  będą dodatkowo dostępne pod stałymi adresami
-  `https://dobrychlopak87.github.io/ByDBDevStudio/...` — w pełni natywnie,
-  bez usług pośredniczących.
+- Wskazówka: po włączeniu GitHub Pages dla pozostałych repozytoriów (Settings → Pages →
+  Deploy from a branch → gałąź `main`, katalog `/ (root)`) każda aplikacja zyska trwały,
+  natywny adres `https://dobrychlopak87.github.io/<repo>/` — wtedy wszystkie podglądy
+  można przełączyć całkowicie na GitHub Pages.
 
 ## Prywatność i bezpieczeństwo
 
